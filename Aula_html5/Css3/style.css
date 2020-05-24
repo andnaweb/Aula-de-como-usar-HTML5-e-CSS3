@@ -1,0 +1,19 @@
+body{
+ background: rgb(174, 190, 240);  
+ margin-left: 40px; 
+ margin-right: 100px;
+
+
+}
+
+h1{
+    color: teal;
+    font-family: fantasy;
+
+}
+h2{
+    font-family: fantasy;
+}
+P{
+    font-size: 20px;
+}
